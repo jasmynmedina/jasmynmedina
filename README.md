@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmynmedina" alt="jasmynmedina" /></a> </p>
 
+- 🔭 I’m currently working on [A47-QA-Automation-Framework](https://github.com/medinajasmyn/A47-QA-Automation-Framework)
+
+- 🌱 Certified: **Java Automation Testing - TestPro Bootcamp**
+
+- 💪 Skilled in development of QA documentation: **test plans, test suites, test cases, check lists and bug reports**
+
 - 📫 How to reach me **jasmynmedina1@gmail.com**
 
 - ⚡ Fun fact **Friends is my favorite sitcom**
