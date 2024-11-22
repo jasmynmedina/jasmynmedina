@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmynmedina" alt="jasmynmedina" /></a> </p>
 
-- 🔭 I’m currently working on [A47-QA-Automation-Framework](https://github.com/medinajasmyn/A47-QA-Automation-Framework)
+- 🔭 I’m currently working on Jas Bank https://github.com/jasmynmedina/Jas-Bank
 
 - 🌱 Certified: **Java Automation Testing - TestPro Bootcamp**
 
