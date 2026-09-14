@@ -8,12 +8,6 @@
   how scalable systems work.
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jasmynmedina" alt="jasmynmedina" />
-  </a>
-</p>
-
 - 🎓 I'm currently pursuing my **M.S. in Computer Science at Georgia Tech (OMSCS)** with a focus in **Artificial Intelligence**
 
 - 💻 I'm currently building **[FlashSale](https://github.com/jasmynmedina/FlashSale)** — a Java-based commerce application designed to help me explore **software architecture, concurrency, repositories, and scalable backend development**
@@ -114,17 +108,3 @@
 - 🧩 **Software Engineering** — object-oriented design, testing, Git workflows, and maintainable software
 - ☁️ **Cloud & Distributed Systems** — AWS, containers, Kubernetes, and scalable application design
 - 🤖 **Artificial Intelligence** — continuing my Georgia Tech OMSCS AI specialization
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmynmedina&show_icons=true&locale=en&layout=compact"
-       alt="jasmynmedina" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=jasmynmedina&show_icons=true&locale=en"
-       alt="jasmynmedina" />
-</p>
