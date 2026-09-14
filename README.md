@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Jasmyn Medina</h1>
 <h3 align="center">Software Engineer | OMSCS Graduate Student | Java • Python • Cloud • AI</h3>
 
@@ -129,4 +128,3 @@
        src="https://github-readme-stats.vercel.app/api?username=jasmynmedina&show_icons=true&locale=en"
        alt="jasmynmedina" />
 </p>
-```
